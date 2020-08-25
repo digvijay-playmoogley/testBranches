@@ -11,3 +11,7 @@ const a = 5;
 console.log(a);
 
 console.log(b.a);
+
+const d = 8;
+
+console.log(d);
